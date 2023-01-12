@@ -38,3 +38,4 @@ test("renders a <span> for each technology passed in as a prop", () => {
     expect(span.tagName).toBe("SPAN");
   }
 });
+    
